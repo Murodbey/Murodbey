@@ -1,13 +1,12 @@
-### Hi there 👋
+### HELLO WORLD, I'm Murodbey 👋
 
 
-- 🔭 I’m currently working on Helm Chart
+- 🔭 I’m currently working on Helm Charts
 - 🌱 I’m currently learning Kafka and python
 - 🤔 I’m looking for help with scripting
 - 💬 Ask me about DevOps
 - 📫 How to reach me: amir_olimxon@protonmail.com
 - 😄 Pronouns: He/Him
--->
 
 <p align="center">
   <a href="https://github.com/Murodbey?tab=repositories">
