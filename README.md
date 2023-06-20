@@ -6,11 +6,7 @@
 - 🤔 I’m looking for help with scripting
 - 💬 Ask me about DevOps
 - 📫 How to reach me: amir_olimxon@protonmail.com
-- 😄 Pronouns: He/Him
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1E8QNCW3XeQuJw)
 
 ### Connect with me:
 
